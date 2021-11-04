@@ -1,0 +1,14 @@
+{
+  "name": "homelyproject",
+  "version": "1.0.0",
+  "description": "Homely Project",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass scss/main.scss css/styles.css -w"
+  },
+  "author": "martialdeecode",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
